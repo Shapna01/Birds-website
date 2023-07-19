@@ -1,0 +1,44 @@
+  .container 
+  {
+    margin: 120px auto;
+    padding: 0;
+    max-width: 1400px;
+  }
+  .title 
+  {
+    color: rgb(255, 0, 4);
+    font-size: 20px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+ .text 
+  {
+  color:yellowgreen;
+    font-size: 19px;
+    width: 100%;
+    padding: 10px;
+    margin: 0, 20px;
+    text-align: justify;
+  }
+  .flex 
+  {
+    display: flex;
+    justify-content: space-around;
+  }
+  .starts 
+  {
+    position: relative;
+    text-align: top;
+    padding: 45px 50px;
+    text-align: center;
+    box-shadow:whitesmoke;
+  }
+  .start
+  {
+    margin: 0 30px;
+    text-align: center;
+    width: 800px;
+    box-shadow: 10px 10px 5px 12px brown; 
+    background-color: palegreen;
+  }
